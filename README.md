@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akash-Patel-95
+- 👋 Hi, I’m Akash
 - 👀 I’m interested in Cloud Technologies.
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me akashpatel4980@gmail.com | https://www.linkedin.com/in/akash-patel20/
