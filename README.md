@@ -12,5 +12,5 @@ I value hands-on learning and structured documentation as part of ongoing profes
 
 My personal lab implementations and documentation can be found here:
 
-🔗 **[HomeLab-Projects](https://github.com/Akash-Patel-95/HomeLab-Projects)**
+🔗 **[Security Operations Lab](https://github.com/Akash-Patel-95/security-operations-lab)**
 
