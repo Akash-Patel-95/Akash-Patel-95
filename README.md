@@ -10,7 +10,7 @@ I value hands-on learning and structured documentation as part of ongoing profes
 
 ## 🏠 Home Lab Projects
 
-All of my hands-on cloud and security implementations are documented here:
+My personal lab implementations and documentation can be found here:
 
 🔗 **[HomeLab-Projects](https://github.com/Akash-Patel-95/HomeLab-Projects)**
 
