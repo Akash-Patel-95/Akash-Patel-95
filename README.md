@@ -14,3 +14,6 @@ My personal lab implementations and documentation can be found here:
 
 🔗 **[Security Operations Lab](https://github.com/Akash-Patel-95/security-operations-lab)**
 
+
+🔗 **[Enterprise-Homelab](https://github.com/Akash-Patel-95/security-operations-lab)**
+
